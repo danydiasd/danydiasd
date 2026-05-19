@@ -21,7 +21,7 @@ Também pesquiso:
 - Python <img src="https://skillicons.dev/icons?i=python| Django REST Framework <img src="https://skillicons.dev/icons?i=django|  Ruby on Rails <img src="https://skillicons.dev/icons?i=ruby
 
 ### Banco de Dados
-- PostgreSQL <img src="https://skillicons.dev/icons?i=postgres| SQLite <img src="https://skillicons.dev/icons?i=sqlite
+- PostgreSQL <img src="https://skillicons.dev/icons?i=postgres">| SQLite <img src="https://skillicons.dev/icons?i=sqlite">
 
 ### Infraestrutura
 - Docker Compose
