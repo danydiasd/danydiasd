@@ -1,7 +1,9 @@
 # Olá, eu sou a Dany 👋
 
 Backend Developer focada em Python, Django e sistemas institucionais de alta complexidade.
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,react,js,git" />
+</p>
 Atualmente atuo com:
 - Desenvolvimento backend
 - Sistemas educacionais públicos
@@ -47,17 +49,15 @@ Também pesquiso:
 - LLMs e NLP
 - Engenharia de prompts
 - DevOps para aplicações Python (forçada :-))
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,react,js,git" />
-</p>
+
 ---
 
 ## 📊 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danydiasd&show_icons=true&theme=tokyonight)
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=danydiasd&layout=compact&hide=html,css
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danydiasd&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danydiasd&layout=compact)
 ---
 
 ## 🧠 Áreas de interesse
