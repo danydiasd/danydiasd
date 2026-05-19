@@ -28,11 +28,7 @@ Também pesquiso:
 - Python
 - Django REST Framework
 - Ruby on Rails
-  <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danydiasd&show_icons=true&theme=tokyonight"/>
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danydiasd&layout=compact&theme=tokyonight"/>
-</p>
 ### Banco de Dados
 - PostgreSQL 
 - SQLite 
@@ -46,8 +42,7 @@ Também pesquiso:
 - CSS
 - JavaScript
 - React
-https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danydiasd&layout=compact&hide=html,css
----
+
 
 ## 📚 Atualmente estudando
 
