@@ -47,7 +47,9 @@ Também pesquiso:
 - LLMs e NLP
 - Engenharia de prompts
 - DevOps para aplicações Python (forçada :-))
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,react,js,git" />
+</p>
 ---
 
 ## 📊 Estatísticas GitHub
