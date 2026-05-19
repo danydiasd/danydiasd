@@ -24,14 +24,39 @@ Também pesquiso:
 
 ## 🚀 Stack Principal
 
-### Backend
-- Python
-- Django REST Framework
-- Ruby on Rails
-  
-### Banco de Dados
-- PostgreSQL 
-- SQLite 
+## 🚀 Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-111827?style=for-the-badge&logo=rubyonrails)
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danydiasd&show_icons=true&theme=tokyonight"/>
+
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danydiasd&layout=compact&theme=tokyonight&hide=html,css"/>
+</p>
+
+---
+
+## 🧠 Interests
+
+- Backend Engineering
+- GovTech
+- Artificial Intelligence
+- Educational Systems
+- Docker & Infrastructure
+- Real Estate Tech
 
 ### Infraestrutura
 - Docker Compose
