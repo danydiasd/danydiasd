@@ -10,7 +10,10 @@ Atualmente atuo com:
 
 Também pesquiso:
 - Inteligência Artificial aplicada à Educação |Formação docente na Educação Profissional e Tecnológica (EPT) |Modelos de Linguagem (LLMs)
+## 📊 Estatísticas GitHub
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danydiasd&layout=compact&theme=tokyonight)
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danydiasd&theme=tokyonight)](https://git.io/streak-stats)
 ---
@@ -18,7 +21,7 @@ Também pesquiso:
 ## 🚀 Stack Principal
 
 ### Backend
-- Python <img src="https://skillicons.dev/icons?i=python| Django REST Framework <img src="https://skillicons.dev/icons?i=django|  Ruby on Rails <img src="https://skillicons.dev/icons?i=ruby
+- Python <img src="https://skillicons.dev/icons?i=python">| Django REST Framework <img src="https://skillicons.dev/icons?i=django">|  Ruby on Rails <img src="https://skillicons.dev/icons?i=ruby">
 
 ### Banco de Dados
 - PostgreSQL <img src="https://skillicons.dev/icons?i=postgres">| SQLite <img src="https://skillicons.dev/icons?i=sqlite">
@@ -43,11 +46,6 @@ Também pesquiso:
 - Engenharia de prompts
 - DevOps para aplicações Python (forçada :-))
 
----
-
-## 📊 Estatísticas GitHub
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danydiasd&layout=compact&theme=tokyonight)
 ---
 
 ## 🧠 Áreas de interesse
