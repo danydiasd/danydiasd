@@ -1,16 +1,74 @@
-## Hi there 👋
+# Olá, eu sou a Dany 👋
 
-<!--
-**danydiasd/danydiasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focada em Python, Django e sistemas institucionais de alta complexidade.
 
-Here are some ideas to get you started:
+Atualmente atuo com:
+- Desenvolvimento backend
+- Sistemas educacionais públicos
+- Docker e PostgreSQL
+- Arquitetura de aplicações
+- Integrações e manutenção de sistemas legados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também pesquiso:
+- Inteligência Artificial aplicada à Educação
+- Formação docente na Educação Profissional e Tecnológica (EPT)
+- Modelos de Linguagem (LLMs)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=danydiasd&theme=tokyonight)](https://git.io/streak-stats)
+---
+
+## 🚀 Stack Principal
+
+### Backend
+- Python
+- Django REST Framework
+- Ruby on Rails
+
+### Banco de Dados
+- PostgreSQL
+- SQLite
+
+### Infraestrutura
+- Docker Compose
+- Linux
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+---
+
+## 📚 Atualmente estudando
+
+- Arquitetura de software
+- Inteligência Artificial aplicada à educação
+- LLMs e NLP
+- Engenharia de prompts
+- DevOps para aplicações Python (forçada :-))
+
+---
+
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danydiasd&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danydiasd&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Áreas de interesse
+
+- Backend Engineering
+- Inteligência Artificial
+- Sistemas educacionais
+- GovTech
+- Real Estate Tech
+- Automação de processos
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/danydiasd
