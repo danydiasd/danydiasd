@@ -19,10 +19,7 @@ Também pesquiso:
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danydiasd&layout=compact&theme=tokyonight)
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=danydiasd&theme=tokyonight)](https://git.io/streak-stats)
----
 
-## 🚀 Stack Principal
 
 ## 🚀 Technologies & Tools
 
@@ -67,3 +64,6 @@ Também pesquiso:
 - GovTech
 - Real Estate Tech
 - Automação de processos
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=danydiasd&theme=tokyonight)](https://git.io/streak-stats)
+---
