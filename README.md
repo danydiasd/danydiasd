@@ -6,10 +6,14 @@ Backend Developer focada em Python, Django e sistemas institucionais complexos. 
 </p>
 
 Atualmente atuo com:
-- Desenvolvimento backend | Sistemas educacionais públicos | Docker e PostgreSQL | Arquitetura de aplicações | Integrações e manutenção de sistemas legados
+- Desenvolvimento backend focado em sistemas institucionais,
+- Arquitetura de aplicações
+- Automação de processos.
 
 Também pesquiso:
-- Inteligência Artificial aplicada à Educação |Formação docente na Educação Profissional e Tecnológica (EPT) |Modelos de Linguagem (LLMs)
+- Pesquisando IA aplicada à Educação Profissional e Tecnológica.
+- Modelos de Linguagem (LLMs)
+  
 ## 📊 Estatísticas GitHub
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danydiasd&layout=compact&theme=tokyonight)
@@ -21,10 +25,17 @@ Também pesquiso:
 ## 🚀 Stack Principal
 
 ### Backend
-- Python <img src="https://skillicons.dev/icons?i=python">| Django REST Framework <img src="https://skillicons.dev/icons?i=django">|  Ruby on Rails <img src="https://skillicons.dev/icons?i=ruby">
-
+- Python
+- Django REST Framework
+- Ruby on Rails
+  <p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danydiasd&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danydiasd&layout=compact&theme=tokyonight"/>
+</p>
 ### Banco de Dados
-- PostgreSQL <img src="https://skillicons.dev/icons?i=postgres">| SQLite <img src="https://skillicons.dev/icons?i=sqlite">
+- PostgreSQL 
+- SQLite 
 
 ### Infraestrutura
 - Docker Compose
@@ -35,7 +46,7 @@ Também pesquiso:
 - CSS
 - JavaScript
 - React
-
+https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danydiasd&layout=compact&hide=html,css
 ---
 
 ## 📚 Atualmente estudando
