@@ -39,16 +39,6 @@ Também pesquiso:
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danydiasd&show_icons=true&theme=tokyonight"/>
-
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danydiasd&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
-
----
-
 ## 🧠 Interests
 
 - Backend Engineering
@@ -57,16 +47,6 @@ Também pesquiso:
 - Educational Systems
 - Docker & Infrastructure
 - Real Estate Tech
-
-### Infraestrutura
-- Docker Compose
-- Linux
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
 
 
 ## 📚 Atualmente estudando
@@ -87,9 +67,3 @@ Também pesquiso:
 - GovTech
 - Real Estate Tech
 - Automação de processos
-
----
-
-## 📫 Contato
-
-- GitHub: https://github.com/danydiasd
